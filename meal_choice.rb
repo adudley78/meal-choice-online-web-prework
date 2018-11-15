@@ -1,3 +1,3 @@
-def meal_choice(choice = "meat")
-  puts #{meal_choice}
+def meal_choice(meal_type)
+  meal_type = "meat"
 end
