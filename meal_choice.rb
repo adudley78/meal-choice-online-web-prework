@@ -1,2 +1,2 @@
-def meal_choice(choice_that_defaults_to_meat = "meat")
+def meal_choice("vegan", choice_that_defaults_to_meat = "meat")
 end
